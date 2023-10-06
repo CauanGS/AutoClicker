@@ -1,0 +1,8 @@
+﻿  Shaye.cpp
+C:\Users\cauan\source\repos\ShayeV1\Shaye\Shaye.cpp(96,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\cauan\source\repos\ShayeV1\Shaye\Shaye.cpp(100,28): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Shaye.vcxproj -> C:\Users\cauan\source\repos\ShayeV1\x64\Release\Shaye.exe

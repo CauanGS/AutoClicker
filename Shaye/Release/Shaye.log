@@ -1,0 +1,9 @@
+﻿  Shaye.cpp
+C:\Users\cauan\source\repos\ShayeV1\Shaye\Shaye.cpp(96,27): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\cauan\source\repos\ShayeV1\Shaye\Shaye.cpp(100,28): warning C4244: 'argumento': conversão de 'float' para 'DWORD', possível perda de dados
+  Gerando código
+  3 of 9 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Shaye.vcxproj -> C:\Users\cauan\source\repos\ShayeV1\Release\Shaye.exe
