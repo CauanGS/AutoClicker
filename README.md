@@ -1,2 +1,2 @@
 # AutoClicker
-Um simples autoclicker escrito em C++.
+Um simples autoclicker desenvolvido em C++.
